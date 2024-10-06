@@ -1,0 +1,7 @@
+custom_datasets filter=lfs diff=lfs merge=lfs -text
+custom_domain_datasets filter=lfs diff=lfs merge=lfs -text
+dataset_translation filter=lfs diff=lfs merge=lfs -text
+domain_datasets filter=lfs diff=lfs merge=lfs -text
+lora_qa_finetuned_adapter_model filter=lfs diff=lfs merge=lfs -text
+merged_adapter_llama3 filter=lfs diff=lfs merge=lfs -text
+quantizing_tensor_to_gguf filter=lfs diff=lfs merge=lfs -text
