@@ -1,0 +1,8 @@
+/quantizing_tensor_to_gguf/output/personal-doctor-llama-3-8b.gguf
+/domain_datasets
+/lora_qa_finetuned_adapter_model/output
+/merged_adapter_llama3/output
+/quantizing_tensor_to_gguf/output
+bfg-1.14.0.jar
+main.gox
+main.goxx
